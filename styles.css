@@ -1,0 +1,11 @@
+body {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #e2d5d5;
+    color: #e24545;
+}
+
+img {
+    width: 80%;
+    margin: 0 auto;
+}
